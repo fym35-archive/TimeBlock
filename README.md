@@ -1,4 +1,4 @@
 # TimeBlock
-simple and open-source app blocker / tracker  which i'm actually working on :)
+simple and open-source app blocker / tracker  which i'm currently working on :)
 
-made in cmd , powershell , python , VBsscript , html and javascript
+written in cmd , powershell , python , VBsscript , html and javascript
